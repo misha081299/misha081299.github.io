@@ -1,0 +1,204 @@
+Uri: http://set.atomicray.ru/
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\index.html
+Content Type: text/html
+
+Uri: http://set.atomicray.ru/img/favicon.ico
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://set.atomicray.ru/css/settings.css
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\css\settings.css
+Content Type: text/css
+
+Uri: http://set.atomicray.ru/css/timer.css
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\css\timer.css
+Content Type: text/css
+
+Uri: http://set.atomicray.ru/css/slick.css
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\css\slick.css
+Content Type: text/css
+
+Uri: http://set.atomicray.ru/css/style.css
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\css\style.css
+Content Type: text/css
+
+Uri: http://set.atomicray.ru/css/custom-styles2.min.css
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\css\custom-styles2.min.css
+Content Type: text/css
+
+Uri: http://set.atomicray.ru/js/custom-functions2.min.js
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\js\custom-functions2.min.js
+Content Type: text/javascript
+
+Uri: http://set.atomicray.ru/img/d1.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\d1.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/d2.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\d2.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/d3.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\d3.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/d4.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\d4.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/shema.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\shema.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/shema2.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\shema2.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/lamp.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\lamp.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/watch1.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\watch1.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/watch2.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\watch2.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/js/count.js
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\js\count.js
+Content Type: application/javascript
+
+Uri: http://set.atomicray.ru/js/slick.min.js
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\js\slick.min.js
+Content Type: application/javascript
+
+Uri: http://set.atomicray.ru/js/main.js
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\js\main.js
+Content Type: application/javascript
+
+Uri: http://set.atomicray.ru/js/previewYouTube.js
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\js\previewYouTube.js
+Content Type: application/javascript
+
+Uri: http://set.atomicray.ru/js/jquery.bpopup.min.js
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\js\jquery.bpopup.min.js
+Content Type: application/javascript
+
+Uri: http://set.atomicray.ru/js/sisyphus.min.js?v=2
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\js\sisyphus.min.js
+Content Type: text/javascript
+
+Uri: http://set.atomicray.ru/js/form.custom.js?v=6
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\js\form.custom.js
+Content Type: text/javascript
+
+Uri: http://set.atomicray.ru/fonts/BebasNeueRegular.ttf
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\fonts\BebasNeueRegular.csv
+Content Type: text/plain
+
+Uri: http://set.atomicray.ru/fonts/BebasNeueBold.ttf
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\fonts\BebasNeueBold.csv
+Content Type: text/plain
+
+Uri: http://set.atomicray.ru/img/timer.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\timer.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/arrow.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\arrow.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/b1.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\b1.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/gift.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\gift.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/icon.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\icon.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/shadow.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\shadow.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/b5.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\b5.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/job.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\job.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/b6.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\b6.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/b3.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\b3.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/ship.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\ship.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/rev.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\rev.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/ava.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\ava.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/stars.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\stars.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/cap.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\cap.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/watches.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\watches.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/check.png
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\check.png
+Content Type: image/png
+
+Uri: http://set.atomicray.ru/img/bf.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\bf.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/b1m.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\b1m.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/b5m.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\b5m.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/b3m.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\b3m.jpg
+Content Type: image/jpeg
+
+Uri: http://set.atomicray.ru/img/b1s.jpg
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\img\b1s.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\css.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v16/B85vmdvDILX92ray16e-1g.ttf
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\s\roboto\v16\B85vmdvDILX92ray16e-1g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v16/isZ-wbCXNKAbnjo6_TwHTqCWcynf_cDxXwCLxiixG1c.ttf
+File Name: c:\Downloaded Web Sites\set.atomicray.ru\s\roboto\v16\isZ-wbCXNKAbnjo6_TwHTqCWcynf_cDxXwCLxiixG1c.ttf
+Content Type: font/ttf
+
